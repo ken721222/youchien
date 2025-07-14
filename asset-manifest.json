@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/youchien/static/css/main.cf890fdb.css",
+    "main.js": "/youchien/static/js/main.dc8cb241.js",
+    "index.html": "/youchien/index.html",
+    "main.cf890fdb.css.map": "/youchien/static/css/main.cf890fdb.css.map",
+    "main.dc8cb241.js.map": "/youchien/static/js/main.dc8cb241.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf890fdb.css",
+    "static/js/main.dc8cb241.js"
+  ]
+}
